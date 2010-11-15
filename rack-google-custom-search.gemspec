@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "lib/rack/google-custom-search.rb",
+    "rack-google-custom-search.gemspec",
     "spec/rack-google-custom-search_spec.rb",
     "spec/spec_helper.rb"
   ]
