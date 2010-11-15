@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{rack-google-custom-search}
-  s.version = ""
+  s.version = "0.1.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jerome Riga"]
@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
+    "VERSION",
     "lib/rack/google-custom-search.rb",
     "rack-google-custom-search.gemspec",
     "spec/rack-google-custom-search_spec.rb",
